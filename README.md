@@ -1,2 +1,2 @@
-# landoproperty.github.io
-Lando Property
+# landoproject.github.io
+Lando Project
